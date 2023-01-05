@@ -19,6 +19,6 @@ class PhotoInterceptor : Interceptor{
     }
 
     companion object{
-        private const val API_KEY = "6d5b94b84e6ba3e218f21cdbf5a27c37"
+        private const val API_KEY = "YOUR_API_KEY"
     }
 }
